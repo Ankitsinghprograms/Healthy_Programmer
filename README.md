@@ -5,9 +5,9 @@ We are Programmers. We programmers are hard workers. We work everyday on compute
 To safe from these things and to be healthy everytime. We need to do 3 things:- 1. Drink Water. 2. Eye Exercise. 3. Exercise. 
 
 # Working
-This Program will notify You to Drink Aater After every 20 minutes. Do Eye Exercise after every 30 minutes. Do exercise After Every 45 minutes.
+This Program will notify You to Drink Aater After every 20 minutes. Do Eye Exercise after every 30 minutes. Do exercise After Every 45 minutes. You can change It in program. This is defined in first line for program.
 
-Modules- Pygmae and Time
+Modules- Pygame and Time
 
 Idea by Code with Harry
 
