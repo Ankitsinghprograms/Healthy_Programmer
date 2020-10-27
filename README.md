@@ -1,7 +1,8 @@
 ## Healthy_Programmer
 
 # Purpose
-We are Programmers. We programmers are hard workers. We work everyday on computer. This harm our eyes and For Any Person like Me who wear glasses It's harm our eyes too much. We always sit on chair. This harm pur back.
+We are Programmers. We programmers are hard workers. We work everyday on computer. This harm our eyes and For Any Person like Me who wear glasses It's harm our eyes too much. We always sit on chair. This harm our back.
+
 To safe from these things and to be healthy everytime. We need to do 3 things:- 1. Drink Water. 2. Eye Exercise. 3. Exercise. 
 
 # Working
@@ -14,6 +15,7 @@ Idea by Code with Harry
 # Special Features
 
 This is Full GUI(Graphical User Interface) based Program. 
+
 This best for programmers.
 
 # Requirements
@@ -32,11 +34,16 @@ This best for programmers.
 ### Add Your name after improving this program
 ### There are 0 contributers till now.
 
-# Notes
+# Notes or Important
+
+### You need to hover on done button for 3.5 seconds till the music will be stopped.
+
 
 I haven't checked this program Fully So If You get any Error then just make pull request or issue.
+
 This program is lagging sometimes.
-I found One error that It log so many data in File. It's not bug or error This is only due to lagging of program. If you have any Idea to solve this then make pull request. Plz
+
+I found One error that It log so many data in File. It's not bug or error This is only due to lagging of program. If you have any Idea to solve this then make pull request. Please.
 
 ## Screenshot
 
