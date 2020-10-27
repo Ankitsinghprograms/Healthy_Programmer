@@ -15,7 +15,7 @@ water_after_every_min=20
 eye_after_every_min=30
 
 
-exercise_after_every_min=0
+exercise_after_every_min=45
 
 
 
