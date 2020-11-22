@@ -28,6 +28,9 @@ This best for programmers.
 5. eye.mp3
 6. water.mp3
 7. exercise.mp3
+8. exercise.txt
+9. eye.txt
+10. water.txt
 
 # Contributers
  
